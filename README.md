@@ -8,4 +8,4 @@
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
-  <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/LCodeAcademy-AI-Course?style=social" alt="stars">
+  <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
