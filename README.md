@@ -66,16 +66,16 @@ Additional notes that we covered through lectures or I said I will share them wi
 [(Back to top)](#table-of-contents)
 
 Public folder contains two files: 
-- [todolist](https://github.com/aurimas13/Communication-of-services/blob/main/Public/todolist.txt) - the TO DO List.
-- [logo](https://github.com/aurimas13/Communication-of-services/blob/main/Public/Photo) - the Photo folder.
+- [todolist](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/todolist.txt) - the TO DO List.
+- [logo](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Public/Photo) - the Photo folder.
 
 
 # Logo
 [(Back to top)](#table-of-contents)
 
-The logo of the CodeAcademy can be found [here](https://github.com/aurimas13/Communication-of-services/blob/main/Public/Photo/communication.jpeg).
+The logo of the CodeAcademy can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png).
 
 # License
 [(Back to top)](#table-of-contents)
 
-The MIT [LICENSE](https://github.com/aurimas13/Communication-of-services/blob/main/LICENSE)
+The MIT [LICENSE](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE)
