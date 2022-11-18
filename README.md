@@ -43,20 +43,20 @@ Details about the program can be found in the original CodeAcademy website under
 ## Notebooks In Progress
 [(Back to top)](#table-of-contents)
 
-Notebooks in Progress can be found [here]().
+Notebooks in Progress can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress).
 
 ## Notebooks Finished
 [(Back to top)](#table-of-contents)
 
-Notebooks Finished can be found [here]().
+Notebooks Finished can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished).
 
 ## Exercises
 
-Exercises can be found [here]().
+Exercises can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Exercises).
 
 ## Solutions 
 
-Solutions can be found [here]().
+Solutions can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Solutions).
 
 ## Notes
 
