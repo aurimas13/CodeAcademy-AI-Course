@@ -1,8 +1,8 @@
 <p align=center>
-  <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/Public/solution.jpeg"/>
+  <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
 </p>
-<p align="center" > Most common <b>solutions</b> to <b>problems</b> from <b> MAANG </b> interviews. </p>
-<p align="center" > <b> Solutions </b> to <b> LeetCode </b> & HackerRank problems. </p>
+<p align="center" > <b>CodeAcademy AI Course</b> with delivered <b> Jupyter Notebooks  </b> through sessions. </p>
+<p align="center" > <b> Solutions </b> and additional <b> notes </b> of the program within. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
