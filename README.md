@@ -60,7 +60,8 @@ Solutions can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course
 
 ## Notes
 
-Additional notes that we covered through lectures or I said I will share them with you can be found [here]().
+Additional notes that we covered through lectures or additional stuff that I said about can be found 
+[here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notes).
 
 # Public
 [(Back to top)](#table-of-contents)
