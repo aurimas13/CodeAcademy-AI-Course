@@ -20,7 +20,7 @@ enough history is still constantly growing and changing. There are great opportu
 after all, it can expand human possibilities in a way that is still difficult to imagine today. 
 
 More on the presentation of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
-and refer to [Table of Contents](#table-of-contents) for further information.
+and refer to this [menu](#table-of-contents) for further information.
 
 
 # Table of Contents
