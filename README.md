@@ -9,7 +9,8 @@
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
   <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
- 
+ </p>
+<p align=center>
 <b> Overview </b> <br>
 Artificial intelligence involves the development of systems capable of performing tasks that normally require human intelligence. 
 These systems can now mimic routine, non-creative behaviors and automate certain processes. Knowledge of artificial intelligence,
@@ -18,7 +19,7 @@ enough history is still constantly growing and changing. There are great opportu
 after all, it can expand human possibilities in a way that is still difficult to imagine today. <br>
 More on the presentation of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
 and refer to [Table of Contents](#table-of-contents) for further information.
-
+</p>
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Program](#Program)
