@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
 </p>
 <p align="center" > <b>CodeAcademy AI Course</b> with delivered <b> Jupyter Notebooks  </b> through sessions. </p>
-<p align="center" > <b> Solutions </b> to the <b> eercises </b> and additional <b> Notes </b> of the program within. </p>
+<p align="center" > <b> Solutions </b> to the <b> exercises </b> and additional <b> Notes </b> of the program within. </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/Python%20Solutions"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
