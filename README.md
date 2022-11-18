@@ -9,3 +9,31 @@
   <a href="https://github.com/aurimas13/LeetCode-HackerRank-MAANG/tree/main/LeetCode/SQL%20Solutions"><img alt="sql" src="https://img.shields.io/badge/language-sql-orange.svg?style=social&logo=sql")></a>
   <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
   <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
+ 
+<b> Overview </b>
+Artificial intelligence involves the development of systems capable of performing tasks that normally require human intelligence. 
+These systems can now mimic routine, non-creative behaviors and automate certain processes. Knowledge of artificial intelligence,
+which is called the technology of the future, gives a specialist a huge advantage. Artificial intelligence technology with a long 
+enough history is still constantly growing and changing. There are great opportunities in the field of artificial intelligence – 
+after all, it can expand human possibilities in a way that is still difficult to imagine today. More on the presentation 
+of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
+Refer to [Table of Contents](#table-of-contents) for further information.
+
+# Table of Contents
+- [Table of contents](#table-of-contents)
+- [Program](#Program)
+- [MAANG Must Do Problems](#maang-must-do-problems) 
+- [Meta](#meta) 
+- [Amazon](#amazon)
+- [Apple](#apple)
+- [Netflix](#netflix) 
+- [Google Top](#google-top) 
+- [Google](#google) 
+- [Microsoft](#microsoft) 
+- [LinkedIn](#linkedin) 
+
+## Program
+[(Back to top)](#table-of-contents)
+
+Details about the program can be found in the original CodeAcademy website under 
+[here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/).
