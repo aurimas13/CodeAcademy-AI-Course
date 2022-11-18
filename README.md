@@ -52,14 +52,17 @@ Notebooks in Progress can be found [here](https://github.com/aurimas13/CodeAcade
 Notebooks Finished can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished).
 
 ## Exercises
+[(Back to top)](#table-of-contents)
 
 Exercises can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Exercises).
 
 ## Solutions 
+[(Back to top)](#table-of-contents)
 
 Solutions can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Solutions).
 
 ## Notes
+[(Back to top)](#table-of-contents)
 
 Additional notes that we covered through lectures or additional stuff that I said about can be found 
 [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notes).
