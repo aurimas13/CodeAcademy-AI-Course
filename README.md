@@ -17,7 +17,8 @@ Artificial intelligence involves the development of systems capable of performin
 These systems can now mimic routine, non-creative behaviors and automate certain processes. Knowledge of artificial intelligence,
 which is called the technology of the future, gives a specialist a huge advantage. Artificial intelligence technology with a long 
 enough history is still constantly growing and changing. There are great opportunities in the field of artificial intelligence – 
-after all, it can expand human possibilities in a way that is still difficult to imagine today. <br>
+after all, it can expand human possibilities in a way that is still difficult to imagine today. 
+
 More on the presentation of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
 and refer to [Table of Contents](#table-of-contents) for further information.
 
