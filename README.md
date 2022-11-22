@@ -85,4 +85,4 @@ The logo of the CodeAcademy can be found [here](https://github.com/aurimas13/Cod
 # License
 [(Back to top)](#table-of-contents)
  
-[MIT LICENSE](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE)
+The MIT LICENSE can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE).
