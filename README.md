@@ -1,4 +1,4 @@
-<p align=center>
+cle<p align=center>
   <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
 </p>
 <p align="center" > <b>CodeAcademy AI Course</b> with delivered <b> Jupyter Notebooks  </b> through sessions. </p>
