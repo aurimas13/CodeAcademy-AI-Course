@@ -28,7 +28,7 @@ and refer to this [menu](#table-of-contents) for further information.
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Program](#Program)
-- [Additinal Material and Installation](#Additional-material-and-installation)
+- [Additinal Material and Set Up](#Additional-material-and-set-up)
 - [Notebooks In Progress](#notebooks-in-progress) 
 - [Notebooks Finished](#notebooks-finished) 
 - [Exercises](#exercises)
@@ -44,11 +44,11 @@ and refer to this [menu](#table-of-contents) for further information.
 Details about the program can be found in the original CodeAcademy website under 
 [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/).
 
-## Additional Material and Installation
+## Additional Material and Set Up
 [(Back to top)](#table-of-contents)
 
 Taught material that is not found in this repo can be inspected through [here](https://github.com/dqmis/code_academy_ai_course)
-as that's additional course's repository from a colleague of a Code Academy AI course.
+as that's additional course's repository from a colleague of a Code Academy AI course. There you can also fin installation notes.
 
 ## Notebooks In Progress
 [(Back to top)](#table-of-contents)
