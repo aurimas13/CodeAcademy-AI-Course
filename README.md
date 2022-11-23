@@ -29,6 +29,7 @@ and refer to this [menu](#table-of-contents) for further information.
 - [Table of contents](#table-of-contents)
 - [Program](#Program)
 - [Additional Material and Set Up](#Additional-material-and-set-up)
+- [Worthy Repositories](#worthy-repositories)
 - [Notebooks In Progress](#notebooks-in-progress) 
 - [Notebooks Finished](#notebooks-finished) 
 - [Exercises](#exercises)
@@ -49,6 +50,13 @@ Details about the program can be found in the original CodeAcademy website under
 
 Taught material that is not found in this repo can be inspected through [here](https://github.com/dqmis/code_academy_ai_course)
 as that's additional course's repository from a colleague of a Code Academy AI course. There you can also fin installation notes.
+
+## Worthy Repositories
+
+Some worthy Python repositories related to the AI course with all details included can be found here:
+| **Title**             | **Description**                                                          | **Link**                                       |
+|-----------------------|--------------------------------------------------------------------------|------------------------------------------------|
+| Web Scraper           | Project showcasing web  crawling/scraping with Python                    | https://github.com/aurimas13/Web-Scraper       |
 
 ## Notebooks In Progress
 [(Back to top)](#table-of-contents)
