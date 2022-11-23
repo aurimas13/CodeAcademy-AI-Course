@@ -55,8 +55,8 @@ as that's additional course's repository from a colleague of a Code Academy AI c
 
 Some worthy Python repositories related to the AI course with all details included can be found here:
 | **Title**             | **Description**                                                          | **Link**                                       |
-|-----------------------|--------------------------------------------------------------------------|------------------------------------------------|
-| Web Scraper           | Project showcasing web  crawling/scraping with Python                    | https://github.com/aurimas13/Web-Scraper       |
+|-----------------------|-----------------------------------------------------|------------------------------------------------|
+| Web Scraper           | Web crawling/scraping with Python                   | https://github.com/aurimas13/Web-Scraper       |
 
 ## Notebooks In Progress
 [(Back to top)](#table-of-contents)
