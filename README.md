@@ -28,7 +28,7 @@ and refer to this [menu](#table-of-contents) for further information.
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Program](#Program)
-- [Additinal Material and Set Up](#Additional-material-and-set-up)
+- [Additional Material and Set Up](#Additional-material-and-set-up)
 - [Notebooks In Progress](#notebooks-in-progress) 
 - [Notebooks Finished](#notebooks-finished) 
 - [Exercises](#exercises)
