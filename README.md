@@ -34,6 +34,7 @@ and refer to this [menu](#table-of-contents) for further information.
 - [Notebooks Finished](#notebooks-finished) 
 - [Exercises](#exercises)
 - [Solutions](#solutions)
+- [Examples](#examples)
 - [Notes](#notes)  
 - [Public](#public)
 - [Photo](#photo)
@@ -78,6 +79,11 @@ Exercises can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course
 
 Solutions can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Solutions).
 
+
+## Examples 
+[(Back to top)](#table-of-contents)
+
+Questions asked through lectures and answers or answers to them by showing can be found [here]https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Examples)
 ## Notes
 [(Back to top)](#table-of-contents)
 
