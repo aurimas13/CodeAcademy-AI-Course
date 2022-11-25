@@ -30,6 +30,7 @@ and refer to this [menu](#table-of-contents) for further information.
 - [Program](#Program)
 - [Additional Material and Set Up](#Additional-material-and-set-up)
 - [Worthy Repositories](#worthy-repositories)
+- [Worthy Tools](#worthy-tools)
 - [Notebooks In Progress](#notebooks-in-progress) 
 - [Notebooks Finished](#notebooks-finished) 
 - [Problems](#problems)
@@ -53,11 +54,26 @@ Taught material that is not found in this repository can be inspected through [h
 as that's additional course's repository from a colleague of this AI course. There you can also find installation notes.
 
 ## Worthy Repositories
+[(Back to top)](#table-of-contents)
 
 Some worthy Python repositories related to the AI course with all details included can be found here:
-| **Title**             | **Description**                                                          | **Link**                                       |
+
+| **Title**             | **Description**                                     | **Link**                                       |
 |-----------------------|-----------------------------------------------------|------------------------------------------------|
 | Web Scraper           | Web crawling/scraping with Python                   | https://github.com/aurimas13/Web-Scraper       |
+
+## Worthy Tools
+[(Back to top)](#table-of-contents)
+
+Worthy websites that include cheat codes for Python, Machine Learning, Deep Learning, Neural Networks and what not apart from other
+worthy tools like GitHub repositories or books while you are learning. Updated constantly when a worthy material is found
+to be shared with Code Academy students.
+
+| **Title**                              | **Description**                                                                                         | **Link**                                                                          |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
+| Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
+
 
 ## Notebooks In Progress
 [(Back to top)](#table-of-contents)
