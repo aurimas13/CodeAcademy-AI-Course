@@ -49,8 +49,8 @@ Details about the program can be found in the original CodeAcademy website under
 ## Additional Material and Set Up
 [(Back to top)](#table-of-contents)
 
-Taught material that is not found in this repo can be inspected through [here](https://github.com/dqmis/code_academy_ai_course)
-as that's additional course's repository from a colleague of a Code Academy AI course. There you can also fin installation notes.
+Taught material that is not found in this repository can be inspected through [here](https://github.com/dqmis/code_academy_ai_course)
+as that's additional course's repository from a colleague of this AI course. There you can also find installation notes.
 
 ## Worthy Repositories
 
