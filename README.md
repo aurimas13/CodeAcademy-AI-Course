@@ -32,7 +32,7 @@ and refer to this [menu](#table-of-contents) for further information.
 - [Worthy Repositories](#worthy-repositories)
 - [Notebooks In Progress](#notebooks-in-progress) 
 - [Notebooks Finished](#notebooks-finished) 
-- [Exercises](#exercises)
+- [Problems](#problems)
 - [Solutions](#solutions)
 - [Examples](#examples)
 - [Notes](#notes)  
@@ -69,25 +69,25 @@ Notebooks in Progress can be found [here](https://github.com/aurimas13/CodeAcade
 
 Notebooks Finished can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished).
 
-## Exercises
+## Problems
 [(Back to top)](#table-of-contents)
 
-Exercises can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Exercises).
+Problems can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Problems).
 
 ## Solutions 
 [(Back to top)](#table-of-contents)
 
-Solutions can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Solutions).
+Solutions to the problems can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Solutions).
 
 
 ## Examples 
 [(Back to top)](#table-of-contents)
 
-Questions asked through lectures and answers or answers to them by showing can be found [here]https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Examples)
+Questions asked through lectures and answers to them by showing can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Examples)
 ## Notes
 [(Back to top)](#table-of-contents)
 
-Additional notes that we covered through lectures or additional stuff that I said about can be found 
+Additional notes that we covered through lectures or additional material that I said about can be found 
 [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notes).
 
 # Public
