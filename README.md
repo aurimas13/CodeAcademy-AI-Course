@@ -12,15 +12,16 @@
     <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
     <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
 </p>
+<p align=center>
+<b> Overview </b> 
+</p>
 <p align=left>
-<b> Overview </b> <br>
-
 Artificial intelligence involves the development of systems capable of performing tasks that normally require human intelligence. 
 These systems can now mimic routine, non-creative behaviors and automate certain processes. Knowledge of artificial intelligence,
 which is called the technology of the future, gives a specialist a huge advantage. Artificial intelligence technology with a long 
 enough history is still constantly growing and changing. There are great opportunities in the field of artificial intelligence – 
 after all, it can expand human possibilities in a way that is still difficult to imagine today.
-
+</p>
 
 More on the presentation of the program can be found [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/)
 and refer to this [menu](#table-of-contents) for further information.
