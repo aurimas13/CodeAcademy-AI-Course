@@ -9,7 +9,7 @@
 <img alt="jupyter" src="https://img.shields.io/badge/language-jupyter-orange.svg?style=social&logo=jupyter")></a>
     <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished">
 <img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
-    <a href="https://twitter.com/aurimasnausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
+    <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
     <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
 </p>
 <p align=center>
