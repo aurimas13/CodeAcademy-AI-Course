@@ -26,14 +26,14 @@ A tabular dataset of movies and tv shows ("titles") on Netflix.
 
 ```python
 import pandas as pd
-iris = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/main/netflix-titles/netflix-titles.csv")
+iris = pd.read_csv("https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Homework/Data/netflix-titles/netflix-titles.csv")
 ```
 
 ### R data.table
 
 ```r
 library(data.table)
-iris = fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/netflix-titles/netflix-titles.csv")
+iris = fread("https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Homework/Data/netflix-titles/netflix-titles.csv")
 ```
 
 [source]: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
