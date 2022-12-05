@@ -1,7 +1,7 @@
 # iris
 The famous [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)!
 
-[_Source_][source]
+[_Source_][Source]
 
 ## Preview
 
@@ -36,4 +36,4 @@ library(data.table)
 iris = fread('Data/iris/iris.csv')
 ```
 
-[source]: https://www.kaggle.com/datasets/uciml/iris?sort=published
+[Source]: https://www.kaggle.com/datasets/uciml/iris?sort=published
