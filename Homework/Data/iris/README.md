@@ -26,7 +26,7 @@ The famous [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)!
 
 ```python
 import pandas as pd
-iris = iris = pd.read_csv('Data/iris/iris.csv')
+iris = pd.read_csv('Data/iris/iris.csv')
 ```
 
 ### R data.table
