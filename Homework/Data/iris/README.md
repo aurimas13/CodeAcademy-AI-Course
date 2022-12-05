@@ -26,14 +26,14 @@ The famous [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)!
 
 ```python
 import pandas as pd
-iris = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/main/iris/iris.csv")
+iris = pd.read_csv("https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Homework/Data/iris/iris.csv")
 ```
 
 ### R data.table
 
 ```r
 library(data.table)
-iris = fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/iris/iris.csv")
+iris = fread("https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Homework/Data/iris/iris.csv")
 ```
 
 [source]: https://www.kaggle.com/datasets/uciml/iris?sort=published
