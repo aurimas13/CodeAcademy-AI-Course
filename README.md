@@ -30,6 +30,7 @@ and refer to this [menu](#table-of-contents) for further information.
 # Table of Contents
 - [Table of contents](#table-of-contents)
 - [Program](#Program)
+- [Jupyter in Browser](#jupyter-in-browser)
 - [Additional Material and Set Up](#Additional-material-and-set-up)
 - [Worthy Repositories](#worthy-repositories)
 - [Worthy Tools](#worthy-tools)
@@ -49,6 +50,14 @@ and refer to this [menu](#table-of-contents) for further information.
 Details about the program can be found in the original CodeAcademy website under 
 [here](https://codeacademy.lt/en/programavimo-kursai/artificial-intelligence-advance/).
 
+## Jupyter in Browser
+[(Back to top)](#table-of-contents)
+
+You could run Jupyter through browser as well by going [here](https://jupyterlite.github.io/demo/lab/index.html) and 
+looking at this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97)
+
+If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking 
+[here](https://colab.research.google.com/notebooks/intro.ipynb). Functionality of both machines are similar.
 ## Additional Material and Set Up
 [(Back to top)](#table-of-contents)
 
