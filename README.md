@@ -53,8 +53,8 @@ Details about the program can be found in the original CodeAcademy website under
 ## Jupyter in Browser
 [(Back to top)](#table-of-contents)
 
-You could run Jupyter through browser as well by going [here](https://jupyterlite.github.io/demo/lab/index.html) and 
-looking at this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97)
+You could run Jupyter through browser by doing so [here](https://jupyterlite.github.io/demo/lab/index.html) and 
+reading more about it through this [article](https://medium.com/geekculture/run-jupyter-notebooks-on-a-web-browser-using-jupyterlite-18e3bd25bd97).
 
 If you find difficulty in running Jupyter Notebook through Browser then you could use Google Colab by clicking 
 [here](https://colab.research.google.com/notebooks/intro.ipynb). Functionality of both machines are similar.
