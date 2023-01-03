@@ -80,10 +80,12 @@ Worthy websites that include cheat codes for Python, Machine Learning, Deep Lear
 worthy tools like GitHub repositories or books while you are learning. Updated constantly when a worthy material is found
 to be shared with Code Academy students.
 
-| **Title**                              | **Description**                                                                                         | **Link**                                                                          |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Python Cheatsheet                      | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
-| Machine Learning Algorithms Cheatsheet | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
+| **Title**                                       | **Description**                                                                                         | **Link**                                                                          |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Python Cheatsheet                               | The Python Cheatsheet based on the book "Automate the Boring Stuff with Python" and many other sources. | https://github.com/wilfredinni/python-cheatsheet                                  |
+| Machine Learning Algorithms Cheatsheet          | The Machine Learning Cheatsheet explaining various models briefly.                                      | https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet  |
+| GitHub Repo on Coursera's Deep Learning Course  | GitHub Repo for Coursera's Deep Learning Specialization by deeplearning.ai                              | https://github.com/aurimas13/Coursera-Deep-Learning-Specialization |
+| Lecture Notes on Cousera's Deep Learning Course | Lecture Notes for Coursera's Deep Learning Specialization by deeplearning.ai                            | https://drive.google.com/drive/folders/1X9qp9KsGs6IuVgzZJZvMJvVzgxPjhNKN?usp=share_link|
 
 
 ## Notebooks In Progress
