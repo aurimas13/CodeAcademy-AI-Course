@@ -96,7 +96,8 @@ Notebooks in Progress can be found [here](https://github.com/aurimas13/CodeAcade
 ## Notebooks Finished
 [(Back to top)](#table-of-contents)
 
-Notebooks Finished can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished).
+Notebooks Finished can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished). 
+This folder also contains demonstrations done through lectures or any other demonstrations related t the course.
 
 ## Problems
 [(Back to top)](#table-of-contents)
@@ -136,6 +137,3 @@ The logo of the CodeAcademy can be found [here](https://github.com/aurimas13/Cod
 [(Back to top)](#table-of-contents)
  
 The MIT LICENSE can be found [here](https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/LICENSE).
-
-
-
