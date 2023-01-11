@@ -1,5 +1,4 @@
 
-
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
 </p>
