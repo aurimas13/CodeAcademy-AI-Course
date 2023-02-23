@@ -2,7 +2,7 @@
   <img height="222px" src="https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Public/Photo/CodeAcademy_baltas.png"/>
 </p>
 <p align="center" > <b>CodeAcademy AI Course</b> with delivered <b> notebooks </b> through sessions & additional <b> presentations </b>. </p>
-<p align="center" > <b> Solutions </b> to the <b> exercises </b> and additional <b> notes </b> of the program within. </p>
+<p align="center" > <b> Solutions </b> to the <b> exercises </b> and more <b> notes </b> of the program within as well. </p>
 <br>
 <p align=center>
     <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress">
