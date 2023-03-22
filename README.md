@@ -12,7 +12,6 @@
     <a href="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social"/></a
     <a href="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course?style=social"/>
     <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
-    <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
 </p>
 <p align=center>
   <img height="400px" src="https://github.com/aurimas13/Revenue-Forecast/blob/main/public/images/revenue.jpg"/>
