@@ -5,13 +5,20 @@
 <p align="center" > <b> Solutions </b> to the <b> exercises </b> and more <b> notes </b> of the program within as well. </p>
 <br>
 <p align=center>
-    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress">
-<img alt="jupyter" src="https://img.shields.io/badge/language-jupyter-orange.svg?style=social&logo=jupyter")></a>
-    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished">
-<img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
+    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_In_Progress"><img alt="jupyter" src="https://img.shields.io/badge/language-jupyter-orange.svg?style=social&logo=jupyter")></a>
+    <a href="https://github.com/aurimas13/CodeAcademy-AI-Course/tree/main/Notebooks_Finished"><img alt="python" src="https://img.shields.io/badge/language-python-blue.svg?style=social&logo=python")></a>
+    <a href="https://img.shields.io/github/last-commit/aurimas13/Revenue-Forecast"><img alt="lastcommit" src="https://img.shields.io/github/last-commit/aurimas13/CodeAcademy-AI-Course?style=social"/></a
+    <a href="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course?style=social"/></a
+    <a href="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social"/></a
+    <a href="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course?style=social"/>
     <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
     <img height="20px" title="profile views" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social" alt="stars">
 </p>
+<p align=center>
+  <img height="400px" src="https://github.com/aurimas13/Revenue-Forecast/blob/main/public/images/revenue.jpg"/>
+</p>
+
+
 <p align=center>
 <b> Overview </b> 
 </p>
