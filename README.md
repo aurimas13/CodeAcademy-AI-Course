@@ -13,10 +13,6 @@
     <a href="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course?style=social"/></a>
     <a href="https://twitter.com/anausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/anausedas?style=social"/></a>
 </p>
-<p align=center>
-  <img height="400px" src="https://github.com/aurimas13/Revenue-Forecast/blob/main/public/images/revenue.jpg"/>
-</p>
-
 
 <p align=center>
 <b> Overview </b> 
