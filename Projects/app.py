@@ -7,7 +7,7 @@ from werkzeug.utils import secure_filename
 from YOUR_PY_MODULE_CONVERTED_FROM_IPYNB import (
     funtion_1, function_2, fucntion_3, function_4
 )
-# Loading environemnnt variables
+# Loading environment variables
 
 # Initialize Flask app
 
@@ -19,10 +19,7 @@ url = "https://github.com/aurimas13/CodeAcademy-AI-Course/blob/main/Datasets/Rev
 # Define the forecast route
 @app.route('/??????', ???)
 def ??????():
-   
-    # Handle GET request to update cached data
-   
-    # Handle POST request to upload a file (Optional)
+    # Read the remote data using the read_remote_data function
 
     # Preprocess the data
 
