@@ -29,3 +29,10 @@ def ??????():
     # Return the prediction as JSON
 
 # Start the Flask app
+
+
+
+
+
+# When module of forecast.py is finished and app.py is finished go to terminal 
+# and run first frecast.py to generate model and after run flask
