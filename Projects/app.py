@@ -4,6 +4,7 @@ import pickle
 import pandas as pd
 from flask import Flask, request, jsonify, flash
 from werkzeug.utils import secure_filename
+from flask_caching import Cache  # Import the Cache class
 from YOUR_PY_MODULE_CONVERTED_FROM_IPYNB import (
     funtion_1, function_2, fucntion_3, function_4
 )
