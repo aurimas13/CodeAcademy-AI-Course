@@ -16,7 +16,6 @@ from pathlib import Path
 from timeit import default_timer as timer
 from helper_functions import accuracy_fn, ToTensor, Normalize
 
-
 # Function to load data
 def load_data():
     transform = torchvision.transforms.Compose([
@@ -59,8 +58,7 @@ else:
     f.write(request.content)
 
 
-## Function to time our experiments
-
+# Function to time our experiments
 def print_train_time(start: float, end: float, device: torch.device = None):
     """Prints difference between start and end time.
 
@@ -76,7 +74,7 @@ def print_train_time(start: float, end: float, device: torch.device = None):
     return total_time
 
 
-## Evaluation function
+# Evaluation function
 
 torch.manual_seed(42)
 def eval_model(model: torch.nn.Module, 
@@ -141,17 +139,6 @@ def train_step(model: nn.Module,
     train_acc /= len(data_loader)
     return train_loss, train_acc
 
-    #     # 4. Loss backward
-    #     loss.backward()
-
-    #     # 5. Optimizer step
-    #     optimizer.step()
-
-    # # Calculate loss and accuracy per epoch and print out what's happening
-    # train_loss /= len(data_loader)
-    # train_acc /= len(data_loader)
-    # print(f"Train loss: {train_loss:.5f} | Train accuracy: {train_acc:.2f}%")
-
 def test_step(data_loader: torch.utils.data.DataLoader,
               model: torch.nn.Module,
               loss_fn: torch.nn.Module,
@@ -178,26 +165,6 @@ def test_step(data_loader: torch.utils.data.DataLoader,
         test_loss /= len(data_loader)
         test_acc /= len(data_loader)
         return test_loss, test_acc
-        # print(f"Test loss: {test_loss:.5f} | Test accuracy: {test_acc:.2f}%\n")
-        
-def train_model(model, train_loader, test_loader, criterion, optimizer, device, epochs=3):
-    for epoch in range(epochs):
-        print(f"Epoch: {epoch}\n---------")
-        train_step(data_loader=train_loader, 
-                   model=model, 
-                   loss_fn=criterion,
-                   optimizer=optimizer,
-                   accuracy_fn=accuracy_fn,
-                   device=device)
-        test_step(data_loader=test_loader,
-                  model=model,
-                  loss_fn=criterion,
-                  accuracy_fn=accuracy_fn,
-                  device=device)
-
-    results = eval_model(model=model, data_loader=test_loader, loss_fn=criterion, accuracy_fn=accuracy_fn)
-    return results
-
 
 # 6. Convolutional Neural Network (CNN) model
 
@@ -262,6 +229,27 @@ from timeit import default_timer as timer
 train_time_start_cnn_model = timer()
 
 # Train and test model 
+
+def train_model(model, train_loader, test_loader, criterion, optimizer, device, epochs=3):
+    for epoch in range(epochs):
+        print(f"Epoch: {epoch}\n---------")
+        train_step(data_loader=train_loader, 
+                   model=model, 
+                   loss_fn=criterion,
+                   optimizer=optimizer,
+                   accuracy_fn=accuracy_fn,
+                   device=device)
+        test_step(data_loader=test_loader,
+                  model=model,
+                  loss_fn=criterion,
+                  accuracy_fn=accuracy_fn,
+                  device=device)
+
+    results = eval_model(model=model, data_loader=test_loader, loss_fn=criterion, accuracy_fn=accuracy_fn)
+    return results
+
+cnn_model_results = train_model(model=cnn_model
+                                
 epochs = 3
 for epoch in tqdm(range(epochs)):
     print(f"Epoch: {epoch}\n---------")
