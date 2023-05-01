@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Try&Error/d2l-pytorch-colab-master/d2l"
+    ]
+}

@@ -5,6 +5,12 @@ Lectures_In_Progress/
 .ipynb_checkpoints/
 .jovianrc
 Notebooks_Finished/__pycache__/
+Projects/.ipynb_checkpoints/
+Projects/.DS_Store
+Projects/FashionMNIST/.ipynb_checkpoints/
+Projects/FashionMNIST/.DS_Store
+Projects/FashionMNIST/__pycache__/
+Notebooks_Finished/models/
 Quiz/.ipynb_checkpointsgo
 Examples/.ipynb_checkpoints
 Homework/.ipynb_checkpoints
