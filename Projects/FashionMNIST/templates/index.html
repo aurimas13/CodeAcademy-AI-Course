@@ -1,0 +1,42 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion MNIST</title>
+</head>
+<body>
+    <h1>Fashion MNIST</h1>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*">
+        <button type="submit">Predict</button>
+    </form>
+    {% if pred_label %}
+    <h2>Prediction: {{ pred_label }}</h2>
+    {% endif %}
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion MNIST</title>
+</head>
+<body>
+    <h1>Fashion MNIST</h1>
+    <button onclick="loadRandomImage()">Load Random Image</button>
+    <div>
+        <img id="fashionImage" src="" alt="Random Fashion MNIST Image" style="display:none;"/>
+    </div>
+
+    <script>
+        function loadRandomImage() {
+            const img = document.getElementById('fashionImage');
+            img.src = '/random_image';
+            img.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
