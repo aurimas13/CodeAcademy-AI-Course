@@ -1,6 +1,5 @@
 # app.py
 
-import os
 import io
 import random
 import torch
