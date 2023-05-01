@@ -4,6 +4,7 @@ Lectures_In_Progress/
 .DS_Store
 .ipynb_checkpoints/
 .jovianrc
+Notebooks_Finished/__pycache__/
 Quiz/.ipynb_checkpointsgo
 Examples/.ipynb_checkpoints
 Homework/.ipynb_checkpoints
