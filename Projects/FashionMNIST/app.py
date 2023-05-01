@@ -39,7 +39,7 @@ def get_random_image():
     img_pil = Image.fromarray(img, mode='L')
     
     # Resize the image to 512x512 pixels
-    img_pil = img_pil.resize((512, 512), Image.ANTIALIAS)
+    img_pil = img_pil.resize((512, 512), resample=Image.LANCZOS)
     
     # Load the model
     model = load_model()

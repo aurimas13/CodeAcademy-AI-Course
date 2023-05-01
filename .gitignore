@@ -5,6 +5,8 @@ Lectures_In_Progress/
 .ipynb_checkpoints/
 .jovianrc
 Notebooks_Finished/__pycache__/
+Projects/FashionMNIST/data/
+Projects/FashionMNIST/models/
 Projects/.ipynb_checkpoints/
 Projects/.DS_Store
 Projects/FashionMNIST/.ipynb_checkpoints/
