@@ -272,16 +272,6 @@ total_train_time_cnn_model = print_train_time(start=train_time_start_cnn_model,
                                            end=train_time_end_cnn_model,
                                            device=device)
 
-# Get model results
-
-cnn_model_results = eval_model(
-    model=cnn_model, 
-    data_loader=test_dataloader,
-    loss_fn=loss_fn, 
-    accuracy_fn=accuracy_fn) 
-cnn_model_results
-
-
 # 9. Make and evaluate random predictions with CNN model
 
 def make_predictions(model: torch.nn.Module, data: list, device: torch.device = device):

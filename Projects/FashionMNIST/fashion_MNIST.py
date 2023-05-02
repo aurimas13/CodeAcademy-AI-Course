@@ -1,6 +1,6 @@
 # Refactored code
 
-# Import libraries
+# 1. Import libraries
 import os
 import torch
 from torch import nn
@@ -378,8 +378,6 @@ if os.path.exists(MODEL_NAME):
     print(f"Loading model from: {MODEL_NAME}")
     cnn_model.load_state_dict(torch.load(MODEL_NAME))
 else:
-
-
     # Save the model state dict
     print(f"Saving model to: {MODEL_NAME}")
     torch.save(obj=cnn_model.state_dict(),
