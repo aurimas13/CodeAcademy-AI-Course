@@ -33,7 +33,6 @@ def random_image():
 def index():
     return render_template('index.html')
 
-
 @app.route('/random_image')
 def get_random_image():
     img, label = random_image()
