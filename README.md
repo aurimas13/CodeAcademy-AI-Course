@@ -11,7 +11,7 @@
     <!-- <a href="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course"><img alt="issues" src="https://img.shields.io/github/issues/aurimas13/CodeAcademy-AI-Course?style=social"/></a> -->
     <a href="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course"><img alt="stars" src="https://img.shields.io/github/stars/aurimas13/CodeAcademy-AI-Course?style=social"/></a>
     <a href="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course"><img alt="twitter" src="https://img.shields.io/github/forks/aurimas13/CodeAcademy-AI-Course?style=social"/></a>
-    <a href="https://twitter.com/AurimasNausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/AurimasNausedas?style=social"/></a>
+    <a href="https://twitter.com/aanausedas"><img alt="twitter" src="https://img.shields.io/twitter/follow/aanausedas?style=social"/></a>
 </p>
 
 <p align=center>
